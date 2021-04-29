@@ -29,6 +29,6 @@
 
 서로의 블로그를 확인하면서 좋은 내용도 공유!
 
-민우: [newforinux.github.io](newforinux.github.io)
+민우: [newforinux.github.io](https://newforinux.github.io)
 
 
