@@ -13,3 +13,11 @@
 ### Back-end
 - [사용자 가입 테스트하기](https://newforinux.github.io/projects/thecomo-3/)
 
+
+## 📅 2주차 [2021-05-10 ~ 2021-05-14]
+### Front-end
+- [10. 한국어, 영어 언어 선택 지원하기](https://newforinux.github.io/post/2021-05-01-react-ts-10/)
+- [11. 관리자 페이지 구성하기 ver.1](https://newforinux.github.io/post/2021-05-04-react-ts-11/)
+
+
+### Back-end
